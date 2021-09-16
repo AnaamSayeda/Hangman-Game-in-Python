@@ -1,5 +1,6 @@
 # Hangman Game in Python
 Creating Hangman Game in Python
+![Hangman](https://user-images.githubusercontent.com/69802048/133665720-c34792eb-5ab2-4824-b5d4-156c87cb1998.png)
 ### :space_invader: Description
 Hangman Game is about guessing letters (A-Z) to form the words. If the player guesses the right letter that is within the word, the letter appears at its correct positions.
 The user has to guess the correct word until a man is hung, then the game is over. The Hangman Game is one of the beginner level project,that doesn’t require any specific modules other than random and time.
